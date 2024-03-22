@@ -1,4 +1,4 @@
-## Olá, me chamo João Paulo! 👋
+## Olá, Eu sou o João Paulo! 👋
 
   ### Tecnologias
   
